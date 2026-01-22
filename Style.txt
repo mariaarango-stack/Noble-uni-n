@@ -1,0 +1,97 @@
+﻿h1 {
+  color: purple;
+    text-align: center;
+  font-size: 75px;
+  
+}
+
+
+h2 { 
+  color: orange;
+    text-align: center;
+     font-size:58px;
+}
+
+
+h3 { 
+color:blue;
+  text-align: left;
+  font-size:40px;
+}
+
+
+H4{
+  color:green;
+  text-align: left;
+  font-size:30px;
+ }
+
+
+p {
+  color:black;
+  text-align: center;
+  font-size:30px;
+  }
+
+
+img {
+  display: block;
+  margin: auto;
+  width: 500px;
+}
+
+
+
+
+h1, h2 {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+
+p {
+  font-family: "Palatino Linotype", serif;
+}
+
+
+
+
+img {
+  transition: transform 0.3s ease;
+}
+
+
+img:hover {
+  transform: scale(1.1);
+}
+
+
+img {
+  border-radius: 15px;
+}
+
+
+
+
+body {
+  background-color: lightpink;
+}
+
+
+
+
+h1 {
+  transition: transform 0.5s ease;
+}
+
+
+h1:hover {
+  transform: translateX(30px);
+}
+
+
+
+
+h2:hover {
+  transform: translateX(30px);
+}
